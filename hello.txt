@@ -10,4 +10,4 @@ hello atCFlab! Hello Git!
 hello atCFlab! Hello Git!
 hello atCFlab! Hello Git!
 hello atCFlab! Hello Git! master test
-hello atCFlab! Hello Git!
+hello atCFlab! Hello Git! hot-fix test
